@@ -1,0 +1,5 @@
+Job_title,Deadline,Status
+Radiation Monitor1,2020.01.14,TBA
+Lab technician1,2021.01.09,TBA
+Data scientist1,2021.01.02,Applied
+Data entry1,2020.12.20,Applied
